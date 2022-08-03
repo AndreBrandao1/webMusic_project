@@ -1,0 +1,26 @@
+.container {
+}
+nav {
+  margin: 25px;
+  background: #f9f9f9;
+  padding: 16px;
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.menuItems {
+  list-style: none;
+  display: flex;
+}
+ul li {
+  margin: 50px;
+}
+.menuItems a {
+  text-decoration: none;
+  color: #8f8f8f;
+  font-size: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
