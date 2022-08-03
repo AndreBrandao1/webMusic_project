@@ -1,0 +1,14 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.artistEL {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  justify-content: center;
+}
+.artistEL p {
+  width: 150px;
+}
