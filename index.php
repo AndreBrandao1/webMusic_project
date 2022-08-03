@@ -16,7 +16,7 @@
       <ul class="menu">
         <li class="menuItems"><a href=" #"></a>Home</li>
         <li class="menuItems"><a href="#"></a>Songs</li>
-        <li class="menuItems"><a href="#">Artists</a></li>
+        <li class="menuItems"><a href="insertArtist.php" target="_blank">Artists</a></li>
         <li class="menuItems"><a href="#">Playlist</a></li>
         <li class="menuItems"><a href="#"></a>Login/Register</li>
       </ul>
