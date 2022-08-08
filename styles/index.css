@@ -12,3 +12,23 @@
 .artistEL p {
   width: 150px;
 }
+
+.songContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.songEl {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.songEl img {
+  width: 100px;
+  height: 100px;
+}
+
+.songEl p {
+  width: 100px;
+}
